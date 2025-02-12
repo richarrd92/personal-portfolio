@@ -31,8 +31,8 @@ const Hero = () => {
       </div>
       <div className="mt-4 space-x-3">
         <a
-          href="/RICHARD_MALIYETU_RESUME.pdf"
-          download="RICHARD_MALIYETU_RESUME" 
+          href="/Resume.pdf"
+          download="Resume" 
           className="bg-zinc-900 text-white text-md md:inline px-3 py-2 rounded-md border border-gray-700 hover:border-zinc-600 hover:bg-zinc-800"
         >
           Download CV
